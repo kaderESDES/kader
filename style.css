@@ -1,0 +1,95 @@
+body{
+	background-color: rgb(5,78,156);
+	font-family: 'Noto Serif', serif;
+	color: rgb(5,78,156);
+}
+
+h1{font-family: 'Alfa Slab One', cursive;;
+	color : rgb(243,190,209);
+	text-align: center;
+	padding: 50px 20px
+
+
+}
+h2, h3, h5 {
+	font-family: 'Alfa Slab One', cursive;
+	color : rgb(5,78,156);
+	text-align: center;
+}
+.flex-bis{
+	display: flex;
+	justify-content: space-between;
+	text-align: center;
+}
+.flex-container {
+	display: flex;
+	justify-content: space-between;
+}
+
+.section {
+	margin: 50px ;
+	background-color: rgb(243,190,209);
+	border-radius: 20px;
+	padding: 10px 20px;
+	margin-top: 30px;
+}
+/*.img{
+	border-radius: 120px;
+	width: 700px;
+	
+}*/
+.half {
+	width: 40%;
+}
+
+.container{
+	width: 900px;
+	margin: 0 auto;
+	border: 3px solid red;
+	padding: 20px;
+}
+
+.fanion{
+	border-radius: 100px;
+	width: 200px;
+	margin: 0 auto;
+}
+
+.coupe {
+	border-radius: 120px;
+	width: 50%;
+	margin: 0 auto;
+ }
+
+ .align-center {
+ 	text-align: center;
+ 	margin: 40px 30px;
+ }
+
+.radius-img{
+	border-radius: 120px;
+	width: 700px;
+}
+
+.son{
+	border-radius: 120px;
+	width: 700px;
+	margin: 0 auto;
+}
+
+.logo-container {
+ 	width: 100px;
+ 	margin: 0 auto;
+ 	padding: 10px 30px;
+ 	text-align: center;
+ }
+
+.logo {
+ 	width: 100%;
+ 	margin: 0 auto;
+ 	padding: 10px 30px;
+ 	text-align: center;
+ }
+
+ 
+ 
